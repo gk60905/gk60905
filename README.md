@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Gaurav Kumar
+- 👋 It all started with "Hello World !"
 - 👀 I’m interested in Computers
 - 🌱 I’m currently learning Competititve Programming
 - 💞️ I’m looking to collaborate 
